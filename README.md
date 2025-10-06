@@ -11,8 +11,9 @@ How to cite dataset (c) (copyright) - CC BY 4.0:
 V. Grasic, B. Mileva Boshoska, SpainBlackout2025 dataset, https://github.com/SafeCity112/SpainBlackout2025/, September 2025
 
 
-STRUCTURE OF DIRECTORIES
-1. GEC_framework
+STRUCTURE OF DIRECTORIES:
+1. GEC_framework:
+
 The basic, very first version of data from Spain Blackout. This data was used within teh paper for ITSI2025 conference.
 
 It includes the basic analysis of happening at Black Out time. It covers basic observations from Space Weather data framework, both in space as well on the ground. Data used and its role is presented within the paper for ITSI2025.
