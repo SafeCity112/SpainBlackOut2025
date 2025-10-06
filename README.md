@@ -19,6 +19,6 @@ The basic, very first version of data from Spain Blackout. This data was used wi
 It includes the basic analysis of happening at Black Out time. It covers basic observations from Space Weather data framework, both in space as well on the ground. Data used and its role is presented within the paper for ITSI2025.
 
 Further documentation: 
-V. Grasic, B. Mileva Boshokoska (2025), Global Electric Circuit as a Driver of Space Weather Impacts: Cross-Sectororal Risks for Energy and Digital Infrastructures with a Spain Blackout Case Study, ITIS 2025, https://itis.fis.unm.si/, Ljubljana, November 2025
+V. Grasic, B. Mileva Boshokoska (2025), Global Electric Circuit as a Driver of Space Weather Impacts: Cross-Sectoral Risks for Energy and Digital Infrastructures with a Spain Blackout Case Study, ITIS 2025, https://itis.fis.unm.si/, Ljubljana, November 2025
 
 
