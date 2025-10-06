@@ -11,6 +11,5 @@ How to cite dataset (c) (copyright) - CC BY 4.0:
 V. Grasic, B. Mileva Boshoska, SpainBlackout2025 dataset, https://github.com/SafeCity112/SpainBlackout2025/, September 2025
 
 Further documentation: 
-V. Grasic, B. Mileva Boshokoska (2025), Global Electric Circuit as a Driver of Space Weather Impacts: Cross-Sectororal Risks for Energy and 
-Digital Infrastructures with a Spain Blackou Case Study, ITIS 2025, https://itis.fis.unm.si/, Ljubljana, November 2025
+V. Grasic, B. Mileva Boshokoska (2025), Global Electric Circuit as a Driver of Space Weather Impacts: Cross-Sectororal Risks for Energy and Digital Infrastructures with a Spain Blackout Case Study, ITIS 2025, https://itis.fis.unm.si/, Ljubljana, November 2025
 
