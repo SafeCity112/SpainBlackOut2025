@@ -8,7 +8,7 @@ Data set presents an initial study of data addressing Spain Blackout.
 By this data set, we addressed the Spain Blackout.
 
 How to cite dataset (c) (copyright) - CC BY 4.0: 
-V. Grasic, B. Mileva Boshoska, SpainBlackout2025 dataset, https://github.com/SafeCity112/SpainBlackout2025/, September 2025
+V. Grasic, SpainBlackout2025 dataset, https://github.com/SafeCity112/SpainBlackout2025/, September 2025
 
 
 STRUCTURE OF DIRECTORIES:
